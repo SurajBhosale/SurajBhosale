@@ -7,8 +7,8 @@
   <li> 🏢 Willing to work on AI, Cloud.
   <li> 📫 How to reach me: </li>
   <ul>
-    <li><a href="linkedin.com/in/bhosalesuraj"> LinkedIn </a></li>
-    <li><a href="instagram.com/_suraj12__"> Instagram </a></li>
+    <li><a href="https://linkedin.com/in/bhosalesuraj/"> LinkedIn </a></li>
+    <li><a href="https://www.instagram.com/_suraj12__/"> Instagram </a></li>
   </ul>
 </ul>
 
