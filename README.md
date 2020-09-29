@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**SurajBhosale/SurajBhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Welcome to my profile,</h4>
 
-Here are some ideas to get you started:
+<ul>
+  <li> 🎓 B.Sc. Information Technology from K J Somaiya College of Science and Commerce.
+  <li> 🔭 I’m currently working on machine learning.</li>
+  <li> 🏢 Willing to work on AI, Cloud.
+  <li> 📫 How to reach me: </li>
+  <ul>
+    <li><a href="linkedin.com/in/bhosalesuraj"> LinkedIn </a></li>
+    <li><a href="instagram.com/_suraj12__"> Instagram </a></li>
+  </ul>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
