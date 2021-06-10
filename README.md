@@ -3,7 +3,6 @@
 
 <ul>
   <li> 🎓 B.Sc. Information Technology from K J Somaiya College of Science and Commerce.
-  <li> 🔭 I’m currently working on machine learning.</li>
   <li> 🏢 Willing to work on AI, Cloud.
   <li> 📫 How to reach me: </li>
   <ul>
