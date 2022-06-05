@@ -2,7 +2,7 @@
 <h4>Welcome to my profile,</h4>
 
 <ul>
-  <li> 🏢 Systems Enginner at Tata Consultancy Services</li>
+  <li> 🏢 Systems Engineer at Tata Consultancy Services</li>
   <li> 🎓 B.Sc. Information Technology from K J Somaiya College of Science and Commerce.</li>
   <li> 🏢 Willing to work on AI, Cloud.</li>
   <li> 📫 How to reach me: </li>
