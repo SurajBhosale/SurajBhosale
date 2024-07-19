@@ -1,14 +1,20 @@
-<h3> <strong> Hi I'm Suraj 👋 </strong> </h3>
-<h4>Welcome to my profile,</h4>
+# 👋 Hello, I'm Suraj Bhosale!
 
-<ul>
-  <li> 🏢 Software Developer at Tata Consultancy Services</li>
-  <li> 🎓 B.Sc. Information Technology from K J Somaiya College of Science and Commerce.</li>
-  <li> 🏢 Willing to work on AI, Cloud.</li>
-  <li> 📫 How to reach me: </li>
-  <ul>
-    <li><a href="https://linkedin.com/in/bhosalesuraj/"> LinkedIn </a></li>
-    <li><a href="https://www.instagram.com/_suraj12__/"> Instagram </a></li>
-  </ul>
-</ul>
+Welcome to my GitHub profile! I'm passionate about coding, learning, and sharing knowledge with the community. Here you'll find a collection of my projects, contributions, and experiments.
 
+## 🚀 About Me
+
+I'm Suraj Bhosale, a software enthusiast with a keen interest in:
+
+- ☕ **Java**: Crafting robust backend systems.
+- 🌐 **JavaScript**: Creating dynamic and interactive web experiences.
+
+## 🛠️ Skills & Technologies
+
+- **Languages**: Java, JavaScript, Python, SQL
+- **Frameworks**: Spring Boot, Express.js, React.js
+- **Tools**: Git, Docker, Jenkins
+- **Databases**: MySQL, MongoDB
+- **Cloud**: AWS
+
+Happy Coding! 🚀
